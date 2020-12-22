@@ -2,7 +2,6 @@ import cv2
 from PIL import Image, ImageSequence
 from skimage import io
 import os
-import numpy as np
 import shutil
 import subprocess
 
